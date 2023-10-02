@@ -6,6 +6,8 @@
     "@chakra-ui/react": "^2.8.1",
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
+    "@fontsource-variable/sora": "^5.0.8",
+    "@fontsource-variable/work-sans": "^5.0.9",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^14.5.1",
@@ -13,6 +15,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^3.11.0",
+    "react-media-recorder": "^1.6.5",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
